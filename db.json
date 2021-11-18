@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "Lolo",
+      "email": "1234",
+      "address": "1234",
+      "phone": "1234"
+    },
+    {
+      "id": 7,
+      "name": "Prueba",
+      "email": "Prueba",
+      "address": "Prueba",
+      "phone": "Prueba"
+    },
+    {
+      "id": 8,
+      "name": "Luis popo",
+      "email": "luis@gmail.compopo",
+      "address": "popo",
+      "phone": "87567890"
+    },
+    {
+      "id": 9,
+      "name": "s",
+      "email": "s",
+      "address": "s",
+      "phone": "s"
+    },
+    {
+      "id": 10,
+      "name": "s",
+      "email": "s",
+      "address": null,
+      "phone": null
+    },
+    {
+      "id": 11,
+      "name": "adf",
+      "email": "gf",
+      "address": "gui",
+      "phone": "j"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
